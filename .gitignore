@@ -1,0 +1,8 @@
+*.class
+bin
+.metadata 
+
+#MAC $%&/()
+.DS_Store
+
+settings.conf
