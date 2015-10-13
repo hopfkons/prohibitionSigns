@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>img_04.truth</name>
+    <open>1</open>
+    <Style id="Poly0">
+      <LineStyle>
+        <color>ff00ff00</color>
+          <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f00ff00</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>img_04.truth</name>
+      <styleUrl>#Poly0</styleUrl>
+      <ExtendedData>                       
+        <Data name="OSM-ID">
+          <value></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <extrude>true</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>9.050149695668757,54.47588751220089
+            9.050413083189191,54.4755829135036
+            9.050452090363461,54.47559045802794
+            9.050179860084302,54.47589492303815
+            9.050149695668757,54.47588751220089</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

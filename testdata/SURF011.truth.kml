@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>SURF011.truth</name>
+    <open>1</open>
+    <Style id="Poly0">
+      <LineStyle>
+        <color>ff00ff00</color>
+          <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f00ff00</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>SURF011.truth</name>
+      <styleUrl>#Poly0</styleUrl>
+      <ExtendedData>                       
+        <Data name="OSM-ID">
+          <value>105017792</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <extrude>true</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>10.7325158,49.8052884
+			10.730459,49.8050423
+			10.730021,49.8049502
+			10.7297831,49.8048212
+			10.7296974,49.8047228
+			10.7288406,49.8024741
+			10.7295451,49.8023574
+			10.7292975,49.8017859
+			10.7302212,49.8016394
+			10.7305857,49.802137
+			10.7305135,49.8021464
+			10.7301302,49.8022121
+			10.730608,49.8033522
+			10.7309507,49.8033079
+			10.7310193,49.8034013
+			10.7315676,49.8033325
+			10.7323368,49.8034407
+			10.7323742,49.803848
+			10.7325158,49.8052884</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
